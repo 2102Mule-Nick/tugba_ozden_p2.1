@@ -25,3 +25,23 @@ The American Flights API is a system API for operations on the american table in
 - [x] Used Database module for all operations methods.
 - [x] Publish the API on Cloudhub.
 
+## Features
+
+* American Flights API is available on Exchange for feedback or reuse.
+* The API runs on Cloudhub.
+* /flights end point provides GET and PUSH operations.
+* /flights/{ID} end point provides GET, PUT and DELETE oprations.
+
+## Getting Started/Usage
+
+* You can use the Cloudhub link   **http://americanflights-v5.us-e2.cloudhub.io/console**   without any necessary steps.
+* If you want to import the project to your Anypoint Studio, be sure your 8081 port is available.
+* After importing the project, you can use ARC, Postman or APIKit console for using endponits.
+
+###### If all the pre-requisites above are met, clone this repo:
+
+##### **https://github.com/2102Mule-Nick/tugba_ozden_p2.1.git**
+
+## Contributors
+
+* Tugba Ozden
