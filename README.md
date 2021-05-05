@@ -35,10 +35,10 @@ The American Flights API is a system API for operations on the american table in
 ## Getting Started/Usage
 
 * You can use the Cloudhub link   **http://americanflights-v5.us-e2.cloudhub.io/console**   without any necessary steps.
-* If you want to import the project to your Anypoint Studio, be sure your 8081 port is available.
+* If you want to import the project to your Anypoint Studio, be sure your 8081 port is available or change the port number.
 * After importing the project, you can use ARC, Postman or APIKit console for using endponits.
 
-###### If all the pre-requisites above are met, clone this repo:
+##### If all the pre-requisites above are met, clone this repo:
 
 ##### **https://github.com/2102Mule-Nick/tugba_ozden_p2.1.git**
 
